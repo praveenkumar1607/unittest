@@ -17,7 +17,7 @@ public class Unittest {
 	// File appDir = new File("http:\\192.168.1.40:9999\\jenkins\\job\\ciIntegration\\lastSuccessfulBuild\\artifact\\app\\build\\outputs\\apk");
 			 // File app = new File(appDir, "app-debug.apk");
 			  DesiredCapabilities cap=new DesiredCapabilities();
-				 cap.setCapability("deviceName","J668A1ZR5B101972");
+				 cap.setCapability("deviceName","92b395e00583e004");
 				 cap.setCapability("browserName","Android");
 				 cap.setCapability("platformVersion","5.1");
 				 cap.setCapability("platformName","Android");
