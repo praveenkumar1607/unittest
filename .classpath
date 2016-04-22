@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="src" path="src/test/resources"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="con" path="org.springsource.ide.eclipse.gradle.classpathcontainer"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/BLT0005/Downloads/selenium-2.52.0/selenium-java-2.52.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BLT0005/Downloads/gson-2.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BLT0005/Downloads/java-client-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BLT0005/Downloads/selenium-server-standalone-2.52.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
